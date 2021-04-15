@@ -36,7 +36,7 @@ const App = () => {
         <h1 className="App-title">Bienvenue sur le Blindtest</h1>
       </header>
       <div className="App-images">
-        <p>Il va falloir modifier le code pour faire un vrai Blindtest !</p>
+        <p>Bonsoir Paris ! Qui l'eût cru ?</p>
       </div>
       <div className="App-buttons">
       </div>
